@@ -1,6 +1,5 @@
 /*
 Name: Krish Shah
-UID: U7092-5759
 This program allows the user to interact with a simple shell called rush. Rush can execute commands stored
 in the user's bin such as echo. It also has builtin commands such as such as path, cd, and exit. Rush is also able
 to write the output of user commands into output streams other than stdout through redirection. 
